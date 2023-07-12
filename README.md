@@ -11,10 +11,10 @@
 
 This repository contains the code and circuit diagrams for a Gesture Controlled Car project. The car is controlled using an MPU6050 sensor for motion sensing and RF433 module for wireless communication. The receiving unit, consisting of an Arduino Uno and an L298 motor driver, receives the commands from the transmitter unit, which comprises an Arduino Nano and the MPU6050 sensor.
 
-![Receiver Circuit](https://path/to/your/receiver/circuit/image.jpg)
+![Receiver Circuit]([https://path/to/your/receiver/circuit/image.jpg](https://github.com/gauravmishra1263/Gesture_controlled_Car/blob/main/Receiver.jpeg))
 *Receiver Circuit*
 
-![Transmitter Circuit](https://path/to/your/transmitter/circuit/image.jpg)
+![Transmitter Circuit]([https://path/to/your/transmitter/circuit/image.jpg](https://github.com/gauravmishra1263/Gesture_controlled_Car/blob/main/Transmitter.jpeg))
 *Transmitter Circuit*
 
 ## Features
