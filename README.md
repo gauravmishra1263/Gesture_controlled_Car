@@ -6,6 +6,7 @@
 [![Tech Stack](https://img.shields.io/badge/RF433-blue)](https://www.sparkfun.com/products/10534)
 [![Tech Stack](https://img.shields.io/badge/L298-red)](https://www.sparkfun.com/products/9670)
 
+![Arduino Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/40px-Arduino_Logo.svg.png) 
 
 ## Overview
 
@@ -35,10 +36,10 @@ This repository contains the code and circuit diagrams for my Gesture Controlled
 
 ## Usage
 
--Power on the car and the transmitter unit.
--Perform gestures to control the car's movement.
--The MPU6050 sensor on the transmitter unit will detect the gestures and transmit corresponding commands to the receiving unit.
--The receiving unit will process the commands and control the motors accordingly.
+- Power on the car and the transmitter unit.
+- Perform gestures to control the car's movement.
+- The MPU6050 sensor on the transmitter unit will detect the gestures and transmit corresponding commands to the receiving unit.
+- The receiving unit will process the commands and control the motors accordingly.
 
 ## Contributing
 
