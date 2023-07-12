@@ -33,13 +33,14 @@ This repository contains the code and circuit diagrams for my Gesture Controlled
    git clone https://github.com/your-username/Gesture_controlled_Car.git
 
 
-##Usage
+## Usage
 
 -Power on the car and the transmitter unit.
 -Perform gestures to control the car's movement.
 -The MPU6050 sensor on the transmitter unit will detect the gestures and transmit corresponding commands to the receiving unit.
 -The receiving unit will process the commands and control the motors accordingly.
 
-##Contributing
+## Contributing
+
  Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
