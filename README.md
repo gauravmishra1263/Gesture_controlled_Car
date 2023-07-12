@@ -14,7 +14,7 @@ This repository contains the code and circuit diagrams for my Gesture Controlled
 ![Receiver Circuit]((https://github.com/gauravmishra1263/Gesture_controlled_Car/blob/main/Receiver.jpeg))
 *Receiver Circuit*
 
-![Transmitter Circuit]((https://github.com/gauravmishra1263/Gesture_controlled_Car/blob/main/Transmitter.jpeg))
+![Transmitter Circuit](https://github.com/gauravmishra1263/Gesture_controlled_Car/blob/main/Transmitter.jpeg)
 *Transmitter Circuit*
 
 ## Features
